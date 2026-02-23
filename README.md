@@ -158,25 +158,6 @@ This dataset can help answer strategic business questions such as:
 
 ---
 
-## ⚠️ Data Considerations
-
-* Some `order_delivered_timestamp` values are NULL (undelivered or canceled orders).
-* Because the dataset is item-level:
-
-  * One order may appear multiple times.
-  * Aggregation is required for customer-level analysis.
-
----
-
-## 🛠 Tools Used
-
-* Python (Pandas, Matplotlib, Seaborn)
-* SQL
-* Tableau
-* Excel
-
----
-
 ## 🎯 Business Value
 
 This analysis supports:
