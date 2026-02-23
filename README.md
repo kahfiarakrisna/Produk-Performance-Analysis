@@ -21,7 +21,7 @@ This dataset is ideal for:
 
 | Attribute        | Details                          |
 | ---------------- | -------------------------------- |
-| Total Rows       | 99,967 transactions              |
+| Total Rows       | 100.000 transactions              |
 | Total Columns    | 23 columns                       |
 | Unit of Analysis | 1 row = 1 product in 1 order     |
 | Data Types       | Numerical, Categorical, DateTime |
